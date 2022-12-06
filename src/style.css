@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+}
+#content{
+    text-align:center;
+}
+.image{
+    margin:50px;
+}
+p{
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;;
+}
+header {
+    background-color: bisque;
+    height:50 px;
+}
+
+ul{
+    display:flex;
+    justify-content: space-around;
+    margin:0px;
+    padding:0px;
+    align-items: center;
+    height:50px;
+}
+li{
+    display:flex;
+    height:40px;
+    align-items: center;
+
+}
